@@ -44,8 +44,10 @@
 #   - Print the following items (one per line) (print using variables)
 #       - possesive first name -birth year is- year of birth 
 #       - tab last name current year
-
-
+possesive_first_name = 'Austin'
+birth_year = '2001'
+last_name = 'Herron'
+print (possesive_first_name + '\'s ' + birth_year + ' '+ last_name)
 # TODO String methods
 #   - Print the following items (one per line) (print using variables)
 #       - first name and last name in lower case
