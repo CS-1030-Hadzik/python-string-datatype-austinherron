@@ -56,3 +56,4 @@ print (possesive_first_name + '\'s ' + birth_year + ' '+ last_name)
 print (my_first_name.casefold(), my_last_name.casefold())
 print ('len()'(), my_last_name())
 print (my_first_name.'upper'(), my_last_name. 'upper'())
+ 
